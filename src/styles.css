@@ -21,6 +21,14 @@ li {
   line-height: 1;
   list-style: none;
 }
+p {
+  text-align: center;
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+}
 
 .weather-app {
   border: 1px solid #dadde1;
